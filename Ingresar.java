@@ -7,7 +7,7 @@ public class Ingresar {
         cadenaTemporal = scanner.nextLine();
         return cadenaTemporal;
     }
-    //Imprimir tu los meses del año 
+    //Iniciar sesion
     public static void main (String[] args) {
         String nombreUsuario = "La_nanis";
         String contrasenaUsuario = "32514";
