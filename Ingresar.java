@@ -9,7 +9,7 @@ public class Ingresar {
     }
     //Imprimir tu los meses del año 
     public static void main (String[] args) {
-        String nombreUsuario = "Adalid";
+        String nombreUsuario = "La_nanis";
         String contrasenaUsuario = "32514";
         String usuarioIngresado = obtnerCadena("Ingresa tu usuario");
         String contrasenaIngresada = obtnerCadena("Ingresa tu contraseña");
